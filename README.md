@@ -1,0 +1,2 @@
+# claseInteligencia
+clases
